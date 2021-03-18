@@ -5,6 +5,8 @@ qudratic <- function(x){x^2 +3*x+1}
 
 a <- qudratic(2)
 print(a)
+
+y <-1
 # check check
 
 # Load libraries ----------------------------------------------------------
