@@ -1,0 +1,13 @@
+---
+title: 'Group Assignment: PCA'
+author: "HCEhlers"
+date: "18/3/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Group Assignment: PCA
+This repository contains the scripts for the PCA from week 6. 
