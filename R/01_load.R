@@ -1,5 +1,10 @@
 # Clear workspace ---------------------------------------------------------
 rm(list = ls())
+
+qudratic <- function(x){x^2 +3*x+1}
+
+a <- qudratic(2)
+print(a)
 # check check
 
 # Load libraries ----------------------------------------------------------
